@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">IITB Blood Bank</string>
+    <string name="title_activity_donor_details">Donor Details</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="agreement">I hereby declare that my blood will not affect the recipient</string>
+
+    <string-array name="blood_groups">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+
+    <string-array name="hostels">
+        <item>H1</item>
+        <item>H2</item>
+        <item>H3</item>
+        <item>H4</item>
+        <item>H5</item>
+        <item>H6</item>
+        <item>H7</item>
+        <item>H8</item>
+        <item>H9</item>
+        <item>H10</item>
+        <item>H11</item>
+        <item>H12</item>
+        <item>H13</item>
+        <item>H14</item>
+        <item>H15</item>
+        <item>H16</item>
+    </string-array>
+
+</resources>

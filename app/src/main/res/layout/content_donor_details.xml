@@ -24,6 +24,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
+            android:inputType="textPersonName"
             android:hint="Name"/>
 
         <TextView
@@ -88,7 +89,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
-            android:padding="10dp">
+            android:padding="10dp"
+            android:paddingLeft="0dp">
 
             <TextView
                 android:layout_width="wrap_content"
@@ -109,6 +111,7 @@
 
         <EditText
             android:id="@+id/room_edittext"
+            android:inputType="text"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Room Number"
